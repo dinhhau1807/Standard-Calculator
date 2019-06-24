@@ -1,2 +1,2 @@
-# Standard-Calculator
+# Standard Calculator
 Winforms standard calculator
